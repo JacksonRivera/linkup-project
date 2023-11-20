@@ -1,0 +1,12 @@
+C:\GoMonke\Embajadores\GoMonke.Core.DynamoDB\bin\Release\net5.0\GoMonke.Core.AWS.deps.json
+C:\GoMonke\Embajadores\GoMonke.Core.DynamoDB\bin\Release\net5.0\GoMonke.Core.AWS.dll
+C:\GoMonke\Embajadores\GoMonke.Core.DynamoDB\bin\Release\net5.0\ref\GoMonke.Core.AWS.dll
+C:\GoMonke\Embajadores\GoMonke.Core.DynamoDB\bin\Release\net5.0\GoMonke.Core.AWS.pdb
+C:\GoMonke\Embajadores\GoMonke.Core.DynamoDB\obj\Release\net5.0\GoMonke.Core.AWS.csproj.AssemblyReference.cache
+C:\GoMonke\Embajadores\GoMonke.Core.DynamoDB\obj\Release\net5.0\GoMonke.Core.AWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\GoMonke\Embajadores\GoMonke.Core.DynamoDB\obj\Release\net5.0\GoMonke.Core.AWS.AssemblyInfoInputs.cache
+C:\GoMonke\Embajadores\GoMonke.Core.DynamoDB\obj\Release\net5.0\GoMonke.Core.AWS.AssemblyInfo.cs
+C:\GoMonke\Embajadores\GoMonke.Core.DynamoDB\obj\Release\net5.0\GoMonke.Core.AWS.csproj.CoreCompileInputs.cache
+C:\GoMonke\Embajadores\GoMonke.Core.DynamoDB\obj\Release\net5.0\GoMonke.Core.AWS.dll
+C:\GoMonke\Embajadores\GoMonke.Core.DynamoDB\obj\Release\net5.0\ref\GoMonke.Core.AWS.dll
+C:\GoMonke\Embajadores\GoMonke.Core.DynamoDB\obj\Release\net5.0\GoMonke.Core.AWS.pdb

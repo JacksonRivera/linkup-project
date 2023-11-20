@@ -1,0 +1,102 @@
+C:/GoMonke/ShopifyDiscountApp/Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.deps.json
+C:/GoMonke/ShopifyDiscountApp/Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.dll
+C:/GoMonke/ShopifyDiscountApp/Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+C:/GoMonke/ShopifyDiscountApp/Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csprojAssemblyReference.cache
+C:/GoMonke/ShopifyDiscountApp/Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfoInputs.cache
+C:/GoMonke/ShopifyDiscountApp/Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfo.cs
+C:/GoMonke/ShopifyDiscountApp/Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.dll
+C:/GoMonke/ShopifyDiscountApp/Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+C:/GoMonke/ShopifyDiscountApp/Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.CoreCompileInputs.cache
+C:/GoMonke/Integraciones/GoMonkeIntegration/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.deps.json
+C:/GoMonke/Integraciones/GoMonkeIntegration/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.dll
+C:/GoMonke/Integraciones/GoMonkeIntegration/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+C:/GoMonke/Integraciones/GoMonkeIntegration/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csprojAssemblyReference.cache
+C:/GoMonke/Integraciones/GoMonkeIntegration/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfoInputs.cache
+C:/GoMonke/Integraciones/GoMonkeIntegration/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfo.cs
+C:/GoMonke/Integraciones/GoMonkeIntegration/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.CoreCompileInputs.cache
+C:/GoMonke/Integraciones/GoMonkeIntegration/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.dll
+C:/GoMonke/Integraciones/GoMonkeIntegration/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+C:/GoMonke/ShopiBus/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.deps.json
+C:/GoMonke/ShopiBus/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.dll
+C:/GoMonke/ShopiBus/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+C:/GoMonke/ShopiBus/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csprojAssemblyReference.cache
+C:/GoMonke/ShopiBus/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfoInputs.cache
+C:/GoMonke/ShopiBus/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfo.cs
+C:/GoMonke/ShopiBus/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.CoreCompileInputs.cache
+C:/GoMonke/ShopiBus/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.dll
+C:/GoMonke/ShopiBus/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+C:/GoMonke/ShopiBus-Independietes/Telsa/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.deps.json
+C:/GoMonke/ShopiBus-Independietes/Telsa/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.dll
+C:/GoMonke/ShopiBus-Independietes/Telsa/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+C:/GoMonke/ShopiBus-Independietes/Telsa/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csprojAssemblyReference.cache
+C:/GoMonke/ShopiBus-Independietes/Telsa/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfoInputs.cache
+C:/GoMonke/ShopiBus-Independietes/Telsa/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfo.cs
+C:/GoMonke/ShopiBus-Independietes/Telsa/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.CoreCompileInputs.cache
+C:/GoMonke/ShopiBus-Independietes/Telsa/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.dll
+C:/GoMonke/ShopiBus-Independietes/Telsa/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+C:/GoMonke/Shippify/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.deps.json
+C:/GoMonke/Shippify/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.dll
+C:/GoMonke/Shippify/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+C:/GoMonke/Shippify/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csprojAssemblyReference.cache
+C:/GoMonke/Shippify/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfoInputs.cache
+C:/GoMonke/Shippify/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfo.cs
+C:/GoMonke/Shippify/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.CoreCompileInputs.cache
+C:/GoMonke/Shippify/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.dll
+C:/GoMonke/Shippify/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+C:/GoMonke/Suscripciones/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.deps.json
+C:/GoMonke/Suscripciones/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.dll
+C:/GoMonke/Suscripciones/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+C:/GoMonke/Suscripciones/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfoInputs.cache
+C:/GoMonke/Suscripciones/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfo.cs
+C:/GoMonke/Suscripciones/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.CoreCompileInputs.cache
+C:/GoMonke/Suscripciones/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.dll
+C:/GoMonke/Suscripciones/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+C:/GoMonke/Suscripciones/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.AssemblyReference.cache
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.deps.json
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.dll
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/GoMonke.Core.AWS.dll
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/GoMonke.Core.AWS.pdb
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.AssemblyReference.cache
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.GeneratedMSBuildEditorConfig.editorconfig
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfoInputs.cache
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfo.cs
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.CoreCompileInputs.cache
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.CopyComplete
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.dll
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.runtimeconfig.json
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.runtimeconfig.dev.json
+C:/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.genruntimeconfig.cache
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.deps.json
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.runtimeconfig.json
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.runtimeconfig.dev.json
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.dll
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/GoMonke.Core.AWS.dll
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/GoMonke.Core.AWS.pdb
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.AssemblyReference.cache
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfoInputs.cache
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfo.cs
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.CoreCompileInputs.cache
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.CopyComplete
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.dll
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.genruntimeconfig.cache
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.deps.json
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.runtimeconfig.json
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.runtimeconfig.dev.json
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.dll
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/GoMonke.Core.AWS.dll
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/bin/Release/netcoreapp3.0/GoMonke.Core.AWS.pdb
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.AssemblyReference.cache
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfoInputs.cache
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.AssemblyInfo.cs
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.CoreCompileInputs.cache
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.csproj.CopyComplete
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.dll
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.pdb
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/Gomonke.Shopify/obj/Release/netcoreapp3.0/Gomonke.Shopify.genruntimeconfig.cache

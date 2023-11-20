@@ -1,0 +1,184 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GoMonke.Core.AWS/1.0.0": {
+        "dependencies": {
+          "AWSSDK.CognitoIdentity": "3.7.0.128",
+          "AWSSDK.DynamoDBv2": "3.7.3.3",
+          "AWSSDK.S3": "3.7.7.26",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "runtime": {
+          "GoMonke.Core.AWS.dll": {}
+        }
+      },
+      "AWSSDK.CognitoIdentity/3.7.0.128": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.8.2",
+          "AWSSDK.SecurityToken": "3.7.1.119"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.CognitoIdentity.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.0.128"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.8.2": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.8.2"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.3.3": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.8.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.3.3"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.7.26": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.8.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.7.26"
+          }
+        }
+      },
+      "AWSSDK.SecurityToken/3.7.1.119": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.8.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.SecurityToken.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.1.119"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/6.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/6.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GoMonke.Core.AWS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.CognitoIdentity/3.7.0.128": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NxtcDYSk3DTHbS6xdGS5VtDBlG9+0A1hmJZRtJ/RbiPSlW09XYuL7xnRFt4/c491xoxaStojKPRYC9T+dxLWqQ==",
+      "path": "awssdk.cognitoidentity/3.7.0.128",
+      "hashPath": "awssdk.cognitoidentity.3.7.0.128.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.8.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v9e+U+dVcLOTXSxRWbt49DK9n6zMmJ8mD/4KVBG0LuWjpFotEhXWWACVvqpdl6J4WoJh7HsF6jndmT1vgAmAOg==",
+      "path": "awssdk.core/3.7.8.2",
+      "hashPath": "awssdk.core.3.7.8.2.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HsRQz4C5eCefHLXF3LJj6stNGD1MpBPFsoCkm7zP/tj1w32UDcHO5pY+6rmb7Kl/vnN1ttXatEgfAn3HbUqu3Q==",
+      "path": "awssdk.dynamodbv2/3.7.3.3",
+      "hashPath": "awssdk.dynamodbv2.3.7.3.3.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.7.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4R2rw+DqO5rR//P0vrqfEv9OZSukNYng2c93q4dhuYKRSgt/PJB508wWUerfkcB7IfvRDbUcvvVYyHvTZlJMjw==",
+      "path": "awssdk.s3/3.7.7.26",
+      "hashPath": "awssdk.s3.3.7.7.26.nupkg.sha512"
+    },
+    "AWSSDK.SecurityToken/3.7.1.119": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tc7AjBlYSdCFRTft46t3S8qJBRtvsU/65eY95zToBTrivCclPiwJB13EYSGbjlWL7sIEDh8aRPSpi0g73nkF2g==",
+      "path": "awssdk.securitytoken/3.7.1.119",
+      "hashPath": "awssdk.securitytoken.3.7.1.119.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dzXN0+V1AyjOe2xcJ86Qbo233KHuLEY0njf/P2Kw8SfJU+d45HNS2ctJdnEnrWbM9Ye2eFgaC5Mj9otRMU6IsQ==",
+      "path": "microsoft.extensions.options/6.0.0",
+      "hashPath": "microsoft.extensions.options.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9+PnzmQFfEFNR9J2aDTfJGGupShHjOuGw4VUv+JB044biSHrnmCIMD+mJHmb2H7YryrfBEXDurxQ47gJZdCKNQ==",
+      "path": "microsoft.extensions.primitives/6.0.0",
+      "hashPath": "microsoft.extensions.primitives.6.0.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GoMonke.Core.AWS
+build_property.ProjectDir = /Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/

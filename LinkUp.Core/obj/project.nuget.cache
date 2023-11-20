@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "FGyRqDuPv3a5Odkd7sJAumzuJnQ2DIs8/38SLgMNW2rKffhSgJru3B3NcxBPvVfcvvhb0c2PlpE+7661hDLjYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jackson\\Documents\\LinkUp\\LinkUp.Core\\LinkUp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jackson\\.nuget\\packages\\awssdk.cloudwatchlogs\\3.7.105\\awssdk.cloudwatchlogs.3.7.105.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\awssdk.cognitoidentity\\3.7.0.128\\awssdk.cognitoidentity.3.7.0.128.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\awssdk.core\\3.7.107.3\\awssdk.core.3.7.107.3.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.3.3\\awssdk.dynamodbv2.3.7.3.3.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\awssdk.s3\\3.7.7.26\\awssdk.s3.3.7.7.26.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\awssdk.securitytoken\\3.7.1.119\\awssdk.securitytoken.3.7.1.119.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Jackson\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

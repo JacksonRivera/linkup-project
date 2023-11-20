@@ -1,0 +1,10 @@
+C:\Users\Jackson\Documents\LinkUp\LinkUp.Core\bin\Debug\netcoreapp3.0\LinkUp.Core.deps.json
+C:\Users\Jackson\Documents\LinkUp\LinkUp.Core\bin\Debug\netcoreapp3.0\LinkUp.Core.dll
+C:\Users\Jackson\Documents\LinkUp\LinkUp.Core\bin\Debug\netcoreapp3.0\LinkUp.Core.pdb
+C:\Users\Jackson\Documents\LinkUp\LinkUp.Core\obj\Debug\netcoreapp3.0\LinkUp.Core.csproj.AssemblyReference.cache
+C:\Users\Jackson\Documents\LinkUp\LinkUp.Core\obj\Debug\netcoreapp3.0\LinkUp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jackson\Documents\LinkUp\LinkUp.Core\obj\Debug\netcoreapp3.0\LinkUp.Core.AssemblyInfoInputs.cache
+C:\Users\Jackson\Documents\LinkUp\LinkUp.Core\obj\Debug\netcoreapp3.0\LinkUp.Core.AssemblyInfo.cs
+C:\Users\Jackson\Documents\LinkUp\LinkUp.Core\obj\Debug\netcoreapp3.0\LinkUp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\Documents\LinkUp\LinkUp.Core\obj\Debug\netcoreapp3.0\LinkUp.Core.dll
+C:\Users\Jackson\Documents\LinkUp\LinkUp.Core\obj\Debug\netcoreapp3.0\LinkUp.Core.pdb

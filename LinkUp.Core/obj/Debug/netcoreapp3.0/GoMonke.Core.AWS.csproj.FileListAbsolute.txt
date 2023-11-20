@@ -1,0 +1,46 @@
+C:/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.deps.json
+C:/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.dll
+C:/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.pdb
+C:/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.csproj.AssemblyReference.cache
+C:/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.GeneratedMSBuildEditorConfig.editorconfig
+C:/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.AssemblyInfoInputs.cache
+C:/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.AssemblyInfo.cs
+C:/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.csproj.CoreCompileInputs.cache
+C:/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.dll
+C:/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.pdb
+/Users/macbookjonathan/Library/Mobile Documents/com~apple~CloudDocs/Macbook/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.deps.json
+/Users/macbookjonathan/Library/Mobile Documents/com~apple~CloudDocs/Macbook/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.dll
+/Users/macbookjonathan/Library/Mobile Documents/com~apple~CloudDocs/Macbook/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.pdb
+/Users/macbookjonathan/Library/Mobile Documents/com~apple~CloudDocs/Macbook/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.csproj.AssemblyReference.cache
+/Users/macbookjonathan/Library/Mobile Documents/com~apple~CloudDocs/Macbook/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookjonathan/Library/Mobile Documents/com~apple~CloudDocs/Macbook/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.AssemblyInfoInputs.cache
+/Users/macbookjonathan/Library/Mobile Documents/com~apple~CloudDocs/Macbook/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.AssemblyInfo.cs
+/Users/macbookjonathan/Library/Mobile Documents/com~apple~CloudDocs/Macbook/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.csproj.CoreCompileInputs.cache
+/Users/macbookjonathan/Library/Mobile Documents/com~apple~CloudDocs/Macbook/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.dll
+/Users/macbookjonathan/Library/Mobile Documents/com~apple~CloudDocs/Macbook/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.pdb
+/Users/macbookjonathan/Library/Mobile Documents/com~apple~CloudDocs/Macbook/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.runtimeconfig.json
+/Users/macbookjonathan/Library/Mobile Documents/com~apple~CloudDocs/Macbook/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.runtimeconfig.dev.json
+/Users/macbookjonathan/Library/Mobile Documents/com~apple~CloudDocs/Macbook/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.genruntimeconfig.cache
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.deps.json
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.dll
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.pdb
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.csproj.AssemblyReference.cache
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.AssemblyInfoInputs.cache
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.AssemblyInfo.cs
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.csproj.CoreCompileInputs.cache
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.dll
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.pdb
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.runtimeconfig.json
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.runtimeconfig.dev.json
+/Users/macbookjonathan/Documents/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.genruntimeconfig.cache
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.deps.json
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.dll
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/bin/Debug/netcoreapp3.0/GoMonke.Core.AWS.pdb
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.csproj.AssemblyReference.cache
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.AssemblyInfoInputs.cache
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.AssemblyInfo.cs
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.csproj.CoreCompileInputs.cache
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.dll
+/Users/macbookjonathan/GoMonke/Suscripciones Mercadopago/GoMonke.Core.DynamoDB/obj/Debug/netcoreapp3.0/GoMonke.Core.AWS.pdb

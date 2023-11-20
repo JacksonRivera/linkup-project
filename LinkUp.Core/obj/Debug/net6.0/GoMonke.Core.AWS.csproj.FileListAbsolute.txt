@@ -1,0 +1,12 @@
+C:\Users\danii\source\repos\MigracionShopiHub\GoMonke.Core.DynamoDB\bin\Debug\net6.0\GoMonke.Core.AWS.deps.json
+C:\Users\danii\source\repos\MigracionShopiHub\GoMonke.Core.DynamoDB\bin\Debug\net6.0\GoMonke.Core.AWS.dll
+C:\Users\danii\source\repos\MigracionShopiHub\GoMonke.Core.DynamoDB\bin\Debug\net6.0\GoMonke.Core.AWS.pdb
+C:\Users\danii\source\repos\MigracionShopiHub\GoMonke.Core.DynamoDB\obj\Debug\net6.0\GoMonke.Core.AWS.csproj.AssemblyReference.cache
+C:\Users\danii\source\repos\MigracionShopiHub\GoMonke.Core.DynamoDB\obj\Debug\net6.0\GoMonke.Core.AWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\source\repos\MigracionShopiHub\GoMonke.Core.DynamoDB\obj\Debug\net6.0\GoMonke.Core.AWS.AssemblyInfoInputs.cache
+C:\Users\danii\source\repos\MigracionShopiHub\GoMonke.Core.DynamoDB\obj\Debug\net6.0\GoMonke.Core.AWS.AssemblyInfo.cs
+C:\Users\danii\source\repos\MigracionShopiHub\GoMonke.Core.DynamoDB\obj\Debug\net6.0\GoMonke.Core.AWS.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\MigracionShopiHub\GoMonke.Core.DynamoDB\obj\Debug\net6.0\GoMonke.Core.AWS.dll
+C:\Users\danii\source\repos\MigracionShopiHub\GoMonke.Core.DynamoDB\obj\Debug\net6.0\refint\GoMonke.Core.AWS.dll
+C:\Users\danii\source\repos\MigracionShopiHub\GoMonke.Core.DynamoDB\obj\Debug\net6.0\GoMonke.Core.AWS.pdb
+C:\Users\danii\source\repos\MigracionShopiHub\GoMonke.Core.DynamoDB\obj\Debug\net6.0\ref\GoMonke.Core.AWS.dll

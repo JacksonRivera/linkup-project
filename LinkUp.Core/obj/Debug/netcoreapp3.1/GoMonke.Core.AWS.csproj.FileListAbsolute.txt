@@ -1,0 +1,10 @@
+C:\GoMonke\Suscripciones Mercadopago\GoMonke.Core.DynamoDB\bin\Debug\netcoreapp3.1\GoMonke.Core.AWS.deps.json
+C:\GoMonke\Suscripciones Mercadopago\GoMonke.Core.DynamoDB\bin\Debug\netcoreapp3.1\GoMonke.Core.AWS.dll
+C:\GoMonke\Suscripciones Mercadopago\GoMonke.Core.DynamoDB\bin\Debug\netcoreapp3.1\GoMonke.Core.AWS.pdb
+C:\GoMonke\Suscripciones Mercadopago\GoMonke.Core.DynamoDB\obj\Debug\netcoreapp3.1\GoMonke.Core.AWS.csproj.AssemblyReference.cache
+C:\GoMonke\Suscripciones Mercadopago\GoMonke.Core.DynamoDB\obj\Debug\netcoreapp3.1\GoMonke.Core.AWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\GoMonke\Suscripciones Mercadopago\GoMonke.Core.DynamoDB\obj\Debug\netcoreapp3.1\GoMonke.Core.AWS.AssemblyInfoInputs.cache
+C:\GoMonke\Suscripciones Mercadopago\GoMonke.Core.DynamoDB\obj\Debug\netcoreapp3.1\GoMonke.Core.AWS.AssemblyInfo.cs
+C:\GoMonke\Suscripciones Mercadopago\GoMonke.Core.DynamoDB\obj\Debug\netcoreapp3.1\GoMonke.Core.AWS.csproj.CoreCompileInputs.cache
+C:\GoMonke\Suscripciones Mercadopago\GoMonke.Core.DynamoDB\obj\Debug\netcoreapp3.1\GoMonke.Core.AWS.dll
+C:\GoMonke\Suscripciones Mercadopago\GoMonke.Core.DynamoDB\obj\Debug\netcoreapp3.1\GoMonke.Core.AWS.pdb
