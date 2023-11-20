@@ -1,7 +1,7 @@
 ﻿using Amazon;
 using Amazon.DynamoDBv2;
 using Amazon.DynamoDBv2.DataModel;
-using LinkUp.Core.AWS.Business;
+using LinkUp.Core.AWS.Business; 
 using Microsoft.Extensions.Options;
 using Microsoft.Extensions.DependencyInjection;
 using System;
